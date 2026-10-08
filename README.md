@@ -6,7 +6,6 @@ The Repository contains three files:
     - Extracted Footage from Camera
     - Old Dataset
     - Roboflow Obtained (best)
-    - Drone2_8_12_2025_1150.MP4
     - yolo_detection.py
     - LatestModel.py
 
